@@ -21,7 +21,7 @@ Problem Number| Team member
  
                
 ```python              
-     #Copy your code here in proper codebox
+     #Copy your code here in proper codebox with highlighted syntax
      
       point = 100
       X = np.linspace(-3, 3, points)
@@ -44,7 +44,7 @@ Problem Number| Team member
 * ### Solution
  
  ```python
- #Copy your code here
+ #Copy your code here with highlighted syntax
  
  # Define our 3 functions
 def my_function():
@@ -69,6 +69,12 @@ x = sum_two_numbers(1,2)
 <br>
 
 ---
+.<br>
+.<br>
+.<br>
+
+
+
 
                 
                 
