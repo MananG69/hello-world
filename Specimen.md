@@ -1,4 +1,4 @@
-# Team x - ( Cool TeamName )
+# Team x - (Cool TeamName)
 > Tagline of your team<br>
 
 Problem Number| Team member
