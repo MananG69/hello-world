@@ -74,7 +74,7 @@ x = sum_two_numbers(1,2)
 and so on..
 <br>
 
-*At the end of the document insert a meme, it can be made by any of you or taken from somewhere - 
+*At the end of the document insert a meme, it can be made by any of you or taken from somewhere -* 
 <br> 
 <br>
 
