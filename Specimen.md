@@ -4,7 +4,7 @@
 Problem Number| Team member
 -------| -------|
 *Problem 1*| [Parth Laturia](https://github.com/ParthLa)|
-*Problem 2*| [Manan K Garg](https://github.com/MananKGarg)|
+*Problem 2*| [Manan Garg](https://github.com/MananKGarg)|
 .|.|
 .|.|
 <br>
@@ -36,7 +36,7 @@ Problem Number| Team member
 ---           
 <br>
                 
-## 2. **Manan K Garg**
+## 2. **Manan Garg**
 
 * ### Problem
   > A short description of problem in your own words
