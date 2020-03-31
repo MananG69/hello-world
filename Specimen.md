@@ -9,6 +9,8 @@ Problem Number| Team member
 .|.|
 <br>
 
+*Your names in the table should be linked to your GitHub Profiles*
+
 ---
 <br>
 
