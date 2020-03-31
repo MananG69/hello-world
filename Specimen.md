@@ -71,10 +71,13 @@ x = sum_two_numbers(1,2)
 ---
 .<br>
 .<br>
-.<br>
+and so on..
+<br>
 
-Insert a meme, it can be made by any of you or taken from somewhere - 
+*At the end of the document insert a meme, it can be made by any of you or taken from somewhere - 
 <br> 
+<br>
+
 ![PicsArt_03-13-08 19 18](https://user-images.githubusercontent.com/62146744/78023723-ccf17c00-7374-11ea-9e2d-600b1842dbfd.jpg)
 
 
