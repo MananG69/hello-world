@@ -10,6 +10,7 @@ Problem Number| Team member
 <br>
 
 ---
+<br>
 
 ## 1. **Parth Laturia**
 
@@ -19,8 +20,8 @@ Problem Number| Team member
 * ### Solution
  
                
-                Copy your code here in proper codebox
-     
+```python                #Copy your code here in proper codebox
+     #Copy your code here in proper codebox
                 point = 100
                 X = np.linspace(-3, 3, points)
                 np.random.seed(6)
@@ -29,8 +30,10 @@ Problem Number| Team member
                 p = plt.plot(X, y, 'ro')
                 plt.axis([-4, 4, -2.0, 2.0])
                 plt.show()
+ ```               
                 
----                
+---           
+<br>
                 
 ## 2. **Manan K Garg**
 
@@ -50,6 +53,10 @@ Problem Number| Team member
                 p = plt.plot(X, y, 'ro')
                 plt.axis([-4, 4, -2.0, 2.0])
                 plt.show()    
+                
+                
+                
+                
                 
             
             
