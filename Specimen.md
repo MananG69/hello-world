@@ -66,12 +66,15 @@ my_function_with_args("John Doe", "a great year!")
 x = sum_two_numbers(1,2)
 
 ```
-<br>
+
 
 ---
 .<br>
 .<br>
 .<br>
+
+Insert a meme, it can be made by any of you or taken from somewhere - 
+
 
 
 
